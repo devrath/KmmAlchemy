@@ -10,9 +10,7 @@
 </div>
 
 
-
-
-
+* [`Setting up KMM on your machine`](https://github.com/devrath/KmmAlchemy/wiki/Setting-up-KMM-on-your-machine)
 
 
 
