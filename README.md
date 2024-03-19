@@ -11,7 +11,7 @@
 
 
 * [`Setting up KMM on your machine`](https://github.com/devrath/KmmAlchemy/wiki/Setting-up-KMM-on-your-machine)
-
+* [`Project Structure Defined`](https://github.com/devrath/KmmAlchemy/wiki/Project-Structure-Defined)
 
 
 
